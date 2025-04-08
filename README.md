@@ -59,10 +59,10 @@ Root
 │   │   ├── y_test.csv
 │   │   └── y_train.csv
 ├── project_summary
-│   ├── 1. Department-Wise Performance Analysis.md
-│   ├── 2. Top 3 Factors Affecting Employee Performance.md
-│   ├── 3. Employee Performance Prediction Model.md
-│   ├── 4. Recommendations to Improve Employee Performance at INX Future Inc..md
+│   ├── Department-Wise Performance Analysis.md
+│   ├── Top 3 Factors Affecting Employee Performance.md
+│   ├── Employee Performance Prediction Model.md
+│   ├── Recommendations to Improve Employee Performance at INX Future Inc..md
 │   └── Analysis Report for INX Future Inc..md
 │   └── Requirement
 │       ├── CDS_Project_2_INX_Future_Emp_Data_V1.6.pdf
