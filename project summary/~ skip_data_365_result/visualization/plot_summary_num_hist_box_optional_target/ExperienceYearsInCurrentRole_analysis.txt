@@ -1,0 +1,20 @@
+Analysis for 'ExperienceYearsInCurrentRole' 
+================================================================================
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    4.29167  |
+| Trimmed Mean (IQR) |    4.13091  |
+| MAD                |    3.04375  |
+| Std                |    3.61374  |
+| Min                |    0        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    7        |
+| Max                |   18        |
+| Mode               |    2        |
+| Range              |   18        |
+| IQR                |    5        |
+| Variance           |   13.0591   |
+| Skewness           |    0.888159 |
+| Kurtosis           |    0.438029 |

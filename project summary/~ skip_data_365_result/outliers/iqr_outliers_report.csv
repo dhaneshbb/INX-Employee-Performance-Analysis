@@ -1,0 +1,20 @@
+Column,Q1,Q3,IQR_Range,Lower_Bound,Upper_Bound,Total Distinct Count,Outlier Distinct Count,Outliers with val count,Unique Outliers
+Age,30.0,43.0,13.0,10.5,62.5,43,0,{},
+DistanceFromHome,2.0,14.0,12.0,-16.0,32.0,29,0,{},
+EmpEducationLevel,2.0,4.0,2.0,-1.0,7.0,5,0,{},
+EmpEnvironmentSatisfaction,2.0,4.0,2.0,-1.0,7.0,4,0,{},
+EmpHourlyRate,48.0,83.0,35.0,-4.5,135.5,71,0,{},
+EmpJobInvolvement,2.0,3.0,1.0,0.5,4.5,4,0,{},
+EmpJobLevel,1.0,3.0,2.0,-2.0,6.0,5,0,{},
+EmpJobSatisfaction,2.0,4.0,2.0,-1.0,7.0,4,0,{},
+NumCompaniesWorked,1.0,4.0,3.0,-3.5,8.5,10,1,{9: 39},9
+EmpLastSalaryHikePercent,12.0,18.0,6.0,3.0,27.0,15,0,{},
+EmpRelationshipSatisfaction,2.0,4.0,2.0,-1.0,7.0,4,0,{},
+TotalWorkExperienceInYears,6.0,15.0,9.0,-7.5,28.5,40,11,"{29: 8, 32: 8, 33: 7, 31: 7, 30: 5, 34: 5, 36: 4, 37: 3, 35: 2, 38: 1, 40: 1}","30, 34, 29, 35, 33, 31, 32, 36, 37, 38, 40"
+TrainingTimesLastYear,2.0,3.0,1.0,0.5,4.5,7,3,"{5: 98, 6: 46, 0: 44}","5, 6, 0"
+EmpWorkLifeBalance,2.0,3.0,1.0,0.5,4.5,4,0,{},
+ExperienceYearsAtThisCompany,3.0,10.0,7.0,-7.5,20.5,37,16,"{21: 14, 22: 12, 33: 5, 25: 4, 32: 3, 24: 3, 26: 2, 31: 2, 29: 2, 36: 2, 27: 2, 34: 1, 30: 1, 23: 1, 37: 1, 40: 1}","21, 22, 34, 26, 31, 32, 24, 33, 29, 25, 36, 30, 23, 27, 37, 40"
+ExperienceYearsInCurrentRole,2.0,7.0,5.0,-5.5,14.5,19,4,"{16: 7, 15: 4, 17: 3, 18: 2}","16, 15, 17, 18"
+YearsSinceLastPromotion,0.0,3.0,3.0,-4.5,7.5,16,8,"{11: 23, 9: 16, 8: 11, 15: 11, 12: 9, 13: 8, 14: 5, 10: 5}","12, 11, 14, 8, 15, 10, 13, 9"
+YearsWithCurrManager,2.0,7.0,5.0,-5.5,14.5,18,3,"{17: 6, 15: 3, 16: 2}","16, 17, 15"
+PerformanceRating,3.0,3.0,0.0,3.0,3.0,3,2,"{2: 194, 4: 132}","4, 2"

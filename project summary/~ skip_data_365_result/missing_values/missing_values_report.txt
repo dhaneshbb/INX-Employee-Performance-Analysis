@@ -1,0 +1,30 @@
+Total Missing Percentage: 0.00%
+
+Statistical Summary of Missing Values:
+Age                             0
+Gender                          0
+EducationBackground             0
+MaritalStatus                   0
+EmpDepartment                   0
+EmpJobRole                      0
+BusinessTravelFrequency         0
+DistanceFromHome                0
+EmpEducationLevel               0
+EmpEnvironmentSatisfaction      0
+EmpHourlyRate                   0
+EmpJobInvolvement               0
+EmpJobLevel                     0
+EmpJobSatisfaction              0
+NumCompaniesWorked              0
+OverTime                        0
+EmpLastSalaryHikePercent        0
+EmpRelationshipSatisfaction     0
+TotalWorkExperienceInYears      0
+TrainingTimesLastYear           0
+EmpWorkLifeBalance              0
+ExperienceYearsAtThisCompany    0
+ExperienceYearsInCurrentRole    0
+YearsSinceLastPromotion         0
+YearsWithCurrManager            0
+Attrition                       0
+PerformanceRating               0

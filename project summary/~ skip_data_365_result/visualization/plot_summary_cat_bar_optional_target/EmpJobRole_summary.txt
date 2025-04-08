@@ -1,0 +1,21 @@
+| EmpJobRole                |   Count |   Percentage |
+|:--------------------------|--------:|-------------:|
+| Sales Executive           |     270 |        22.5  |
+| Developer                 |     236 |        19.67 |
+| Manager R&D               |      94 |         7.83 |
+| Research Scientist        |      77 |         6.42 |
+| Sales Representative      |      69 |         5.75 |
+| Laboratory Technician     |      64 |         5.33 |
+| Senior Developer          |      52 |         4.33 |
+| Manager                   |      51 |         4.25 |
+| Finance Manager           |      49 |         4.08 |
+| Human Resources           |      45 |         3.75 |
+| Technical Lead            |      38 |         3.17 |
+| Manufacturing Director    |      33 |         2.75 |
+| Healthcare Representative |      33 |         2.75 |
+| Data Scientist            |      20 |         1.67 |
+| Research Director         |      19 |         1.58 |
+| Business Analyst          |      16 |         1.33 |
+| Senior Manager R&D        |      15 |         1.25 |
+| Delivery Manager          |      12 |         1    |
+| Technical Architect       |       7 |         0.58 |

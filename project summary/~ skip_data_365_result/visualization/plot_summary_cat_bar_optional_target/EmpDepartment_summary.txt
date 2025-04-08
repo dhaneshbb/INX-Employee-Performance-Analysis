@@ -1,0 +1,8 @@
+| EmpDepartment          |   Count |   Percentage |
+|:-----------------------|--------:|-------------:|
+| Sales                  |     373 |        31.08 |
+| Development            |     361 |        30.08 |
+| Research & Development |     343 |        28.58 |
+| Human Resources        |      54 |         4.5  |
+| Finance                |      49 |         4.08 |
+| Data Science           |      20 |         1.67 |

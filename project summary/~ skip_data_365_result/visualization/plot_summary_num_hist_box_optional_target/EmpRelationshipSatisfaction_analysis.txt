@@ -1,0 +1,20 @@
+Analysis for 'EmpRelationshipSatisfaction' 
+================================================================================
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.725    |
+| Trimmed Mean (IQR) |    2.725    |
+| MAD                |    0.928083 |
+| Std                |    1.07564  |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    4        |
+| Max                |    4        |
+| Mode               |    3        |
+| Range              |    3        |
+| IQR                |    2        |
+| Variance           |    1.15701  |
+| Skewness           |   -0.318563 |
+| Kurtosis           |   -1.16183  |

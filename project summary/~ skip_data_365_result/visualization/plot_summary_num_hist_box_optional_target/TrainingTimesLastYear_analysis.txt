@@ -1,0 +1,20 @@
+Analysis for 'TrainingTimesLastYear' 
+================================================================================
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.78583  |
+| Trimmed Mean (IQR) |    2.54644  |
+| MAD                |    0.953799 |
+| Std                |    1.26345  |
+| Min                |    0        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    3        |
+| Max                |    6        |
+| Mode               |    2        |
+| Range              |    6        |
+| IQR                |    1        |
+| Variance           |    1.5963   |
+| Skewness           |    0.532073 |
+| Kurtosis           |    0.567531 |

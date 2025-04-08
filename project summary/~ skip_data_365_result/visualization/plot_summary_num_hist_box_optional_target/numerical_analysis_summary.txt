@@ -1,0 +1,402 @@
+Numerical Variable Analysis Report
+========================================================================================================================
+
+
+### Analysis for 'Age'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |   36.9183   |
+| Trimmed Mean (IQR) |   36.9183   |
+| MAD                |    7.37112  |
+| Std                |    9.08729  |
+| Min                |   18        |
+| 25%                |   30        |
+| 50%                |   36        |
+| 75%                |   43        |
+| Max                |   60        |
+| Mode               |   34        |
+| Range              |   42        |
+| IQR                |   13        |
+| Variance           |   82.5788   |
+| Skewness           |    0.384145 |
+| Kurtosis           |   -0.431    |
+
+
+### Analysis for 'DistanceFromHome'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    9.16583  |
+| Trimmed Mean (IQR) |    9.16583  |
+| MAD                |    6.64337  |
+| Std                |    8.17664  |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    7        |
+| 75%                |   14        |
+| Max                |   29        |
+| Mode               |    2        |
+| Range              |   28        |
+| IQR                |   12        |
+| Variance           |   66.8574   |
+| Skewness           |    0.962956 |
+| Kurtosis           |   -0.242017 |
+
+
+### Analysis for 'EmpEducationLevel'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.8925   |
+| Trimmed Mean (IQR) |    2.8925   |
+| MAD                |    0.822329 |
+| Std                |    1.04412  |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    4        |
+| Max                |    5        |
+| Mode               |    3        |
+| Range              |    4        |
+| IQR                |    2        |
+| Variance           |    1.09019  |
+| Skewness           |   -0.250974 |
+| Kurtosis           |   -0.635594 |
+
+
+### Analysis for 'EmpEnvironmentSatisfaction'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.71583  |
+| Trimmed Mean (IQR) |    2.71583  |
+| MAD                |    0.946456 |
+| Std                |    1.0906   |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    4        |
+| Max                |    4        |
+| Mode               |    3        |
+| Range              |    3        |
+| IQR                |    2        |
+| Variance           |    1.18941  |
+| Skewness           |   -0.307665 |
+| Kurtosis           |   -1.20558  |
+
+
+### Analysis for 'EmpHourlyRate'  ###
+| Statistic          |      Overall |
+|--------------------|--------------|
+| Count              | 1200         |
+| Mean               |   65.9817    |
+| Trimmed Mean (IQR) |   65.9817    |
+| MAD                |   17.5021    |
+| Std                |   20.2113    |
+| Min                |   30         |
+| 25%                |   48         |
+| 50%                |   66         |
+| 75%                |   83         |
+| Max                |  100         |
+| Mode               |   66         |
+| Range              |   70         |
+| IQR                |   35         |
+| Variance           |  408.497     |
+| Skewness           |   -0.0351649 |
+| Kurtosis           |   -1.18689   |
+
+
+### Analysis for 'EmpJobInvolvement'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.73167  |
+| Trimmed Mean (IQR) |    2.73167  |
+| MAD                |    0.560544 |
+| Std                |    0.707164 |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    3        |
+| Max                |    4        |
+| Mode               |    3        |
+| Range              |    3        |
+| IQR                |    1        |
+| Variance           |    0.500081 |
+| Skewness           |   -0.557846 |
+| Kurtosis           |    0.36867  |
+
+
+### Analysis for 'EmpJobLevel'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.0675   |
+| Trimmed Mean (IQR) |    2.0675   |
+| MAD                |    0.832446 |
+| Std                |    1.10784  |
+| Min                |    1        |
+| 25%                |    1        |
+| 50%                |    2        |
+| 75%                |    3        |
+| Max                |    5        |
+| Mode               |    2        |
+| Range              |    4        |
+| IQR                |    2        |
+| Variance           |    1.2273   |
+| Skewness           |    1.02405  |
+| Kurtosis           |    0.386338 |
+
+
+### Analysis for 'EmpJobSatisfaction'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.7325   |
+| Trimmed Mean (IQR) |    2.7325   |
+| MAD                |    0.95635  |
+| Std                |    1.10089  |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    4        |
+| Max                |    4        |
+| Mode               |    4        |
+| Range              |    3        |
+| IQR                |    2        |
+| Variance           |    1.21195  |
+| Skewness           |   -0.324276 |
+| Kurtosis           |   -1.22315  |
+
+
+### Analysis for 'NumCompaniesWorked'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.665    |
+| Trimmed Mean (IQR) |    2.4522   |
+| MAD                |    2.0308   |
+| Std                |    2.46938  |
+| Min                |    0        |
+| 25%                |    1        |
+| 50%                |    2        |
+| 75%                |    4        |
+| Max                |    9        |
+| Mode               |    1        |
+| Range              |    9        |
+| IQR                |    3        |
+| Variance           |    6.09786  |
+| Skewness           |    1.04863  |
+| Kurtosis           |    0.068863 |
+
+
+### Analysis for 'EmpLastSalaryHikePercent'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |   15.2225   |
+| Trimmed Mean (IQR) |   15.2225   |
+| MAD                |    3.02498  |
+| Std                |    3.62592  |
+| Min                |   11        |
+| 25%                |   12        |
+| 50%                |   14        |
+| 75%                |   18        |
+| Max                |   25        |
+| Mode               |   14        |
+| Range              |   14        |
+| IQR                |    6        |
+| Variance           |   13.1473   |
+| Skewness           |    0.808654 |
+| Kurtosis           |   -0.299741 |
+
+
+### Analysis for 'EmpRelationshipSatisfaction'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.725    |
+| Trimmed Mean (IQR) |    2.725    |
+| MAD                |    0.928083 |
+| Std                |    1.07564  |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    4        |
+| Max                |    4        |
+| Mode               |    3        |
+| Range              |    3        |
+| IQR                |    2        |
+| Variance           |    1.15701  |
+| Skewness           |   -0.318563 |
+| Kurtosis           |   -1.16183  |
+
+
+### Analysis for 'TotalWorkExperienceInYears'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |   11.33     |
+| Trimmed Mean (IQR) |   10.389    |
+| MAD                |    6.07068  |
+| Std                |    7.79723  |
+| Min                |    0        |
+| 25%                |    6        |
+| 50%                |   10        |
+| 75%                |   15        |
+| Max                |   40        |
+| Mode               |   10        |
+| Range              |   40        |
+| IQR                |    9        |
+| Variance           |   60.7968   |
+| Skewness           |    1.08686  |
+| Kurtosis           |    0.805633 |
+
+
+### Analysis for 'TrainingTimesLastYear'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.78583  |
+| Trimmed Mean (IQR) |    2.54644  |
+| MAD                |    0.953799 |
+| Std                |    1.26345  |
+| Min                |    0        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    3        |
+| Max                |    6        |
+| Mode               |    2        |
+| Range              |    6        |
+| IQR                |    1        |
+| Variance           |    1.5963   |
+| Skewness           |    0.532073 |
+| Kurtosis           |    0.567531 |
+
+
+### Analysis for 'EmpWorkLifeBalance'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.74417  |
+| Trimmed Mean (IQR) |    2.74417  |
+| MAD                |    0.550686 |
+| Std                |    0.699374 |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    3        |
+| Max                |    4        |
+| Mode               |    3        |
+| Range              |    3        |
+| IQR                |    1        |
+| Variance           |    0.489124 |
+| Skewness           |   -0.539231 |
+| Kurtosis           |    0.396607 |
+
+
+### Analysis for 'ExperienceYearsAtThisCompany'  ###
+| Statistic          |    Overall |
+|--------------------|------------|
+| Count              | 1200       |
+| Mean               |    7.0775  |
+| Trimmed Mean (IQR) |    6.15385 |
+| MAD                |    4.54715 |
+| Std                |    6.2369  |
+| Min                |    0       |
+| 25%                |    3       |
+| 50%                |    5       |
+| 75%                |   10       |
+| Max                |   40       |
+| Mode               |    5       |
+| Range              |   40       |
+| IQR                |    7       |
+| Variance           |   38.8989  |
+| Skewness           |    1.78905 |
+| Kurtosis           |    4.05796 |
+
+
+### Analysis for 'ExperienceYearsInCurrentRole'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    4.29167  |
+| Trimmed Mean (IQR) |    4.13091  |
+| MAD                |    3.04375  |
+| Std                |    3.61374  |
+| Min                |    0        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    7        |
+| Max                |   18        |
+| Mode               |    2        |
+| Range              |   18        |
+| IQR                |    5        |
+| Variance           |   13.0591   |
+| Skewness           |    0.888159 |
+| Kurtosis           |    0.438029 |
+
+
+### Analysis for 'YearsSinceLastPromotion'  ###
+| Statistic          |    Overall |
+|--------------------|------------|
+| Count              | 1200       |
+| Mean               |    2.19417 |
+| Trimmed Mean (IQR) |    1.48471 |
+| MAD                |    2.34732 |
+| Std                |    3.22156 |
+| Min                |    0       |
+| 25%                |    0       |
+| 50%                |    1       |
+| 75%                |    3       |
+| Max                |   15       |
+| Mode               |    0       |
+| Range              |   15       |
+| IQR                |    3       |
+| Variance           |   10.3784  |
+| Skewness           |    1.97493 |
+| Kurtosis           |    3.53908 |
+
+
+### Analysis for 'YearsWithCurrManager'  ###
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    4.105    |
+| Trimmed Mean (IQR) |    3.99243  |
+| MAD                |    3.00809  |
+| Std                |    3.54158  |
+| Min                |    0        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    7        |
+| Max                |   17        |
+| Mode               |    2        |
+| Range              |   17        |
+| IQR                |    5        |
+| Variance           |   12.5428   |
+| Skewness           |    0.813158 |
+| Kurtosis           |    0.148202 |
+
+
+### Analysis for 'PerformanceRating'  ###
+| Statistic          |      Overall |
+|--------------------|--------------|
+| Count              | 1200         |
+| Mean               |    2.94833   |
+| Trimmed Mean (IQR) |    3         |
+| MAD                |    0.306628  |
+| Std                |    0.518866  |
+| Min                |    2         |
+| 25%                |    3         |
+| 50%                |    3         |
+| 75%                |    3         |
+| Max                |    4         |
+| Mode               |    3         |
+| Range              |    2         |
+| IQR                |    0         |
+| Variance           |    0.269222  |
+| Skewness           |   -0.0705764 |
+| Kurtosis           |    0.674477  |
+

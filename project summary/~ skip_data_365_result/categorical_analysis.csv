@@ -1,0 +1,44 @@
+Variable,Outcome,Count,Percent
+Gender,Male,725,60.42
+Gender,Female,475,39.58
+EducationBackground,Life Sciences,492,41.0
+EducationBackground,Medical,384,32.0
+EducationBackground,Marketing,137,11.42
+EducationBackground,Technical Degree,100,8.33
+EducationBackground,Other,66,5.5
+EducationBackground,Human Resources,21,1.75
+MaritalStatus,Married,548,45.67
+MaritalStatus,Single,384,32.0
+MaritalStatus,Divorced,268,22.33
+EmpDepartment,Sales,373,31.08
+EmpDepartment,Development,361,30.08
+EmpDepartment,Research & Development,343,28.58
+EmpDepartment,Human Resources,54,4.5
+EmpDepartment,Finance,49,4.08
+EmpDepartment,Data Science,20,1.67
+EmpJobRole,Sales Executive,270,22.5
+EmpJobRole,Developer,236,19.67
+EmpJobRole,Manager R&D,94,7.83
+EmpJobRole,Research Scientist,77,6.42
+EmpJobRole,Sales Representative,69,5.75
+EmpJobRole,Laboratory Technician,64,5.33
+EmpJobRole,Senior Developer,52,4.33
+EmpJobRole,Manager,51,4.25
+EmpJobRole,Finance Manager,49,4.08
+EmpJobRole,Human Resources,45,3.75
+EmpJobRole,Technical Lead,38,3.17
+EmpJobRole,Manufacturing Director,33,2.75
+EmpJobRole,Healthcare Representative,33,2.75
+EmpJobRole,Data Scientist,20,1.67
+EmpJobRole,Research Director,19,1.58
+EmpJobRole,Business Analyst,16,1.33
+EmpJobRole,Senior Manager R&D,15,1.25
+EmpJobRole,Delivery Manager,12,1.0
+EmpJobRole,Technical Architect,7,0.58
+BusinessTravelFrequency,Travel_Rarely,846,70.5
+BusinessTravelFrequency,Travel_Frequently,222,18.5
+BusinessTravelFrequency,Non-Travel,132,11.0
+OverTime,No,847,70.58
+OverTime,Yes,353,29.42
+Attrition,No,1022,85.17
+Attrition,Yes,178,14.83

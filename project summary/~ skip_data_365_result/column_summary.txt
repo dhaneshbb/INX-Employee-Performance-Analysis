@@ -1,0 +1,32 @@
+
+======== Column Summary: ===========
+
+Index Attribute                      Data Type       Range                          Distinct Count
+----- ------------------------------ --------------- ------------------------------ ---------------
+1     Age                            int64           18 - 60                        43
+2     DistanceFromHome               int64           1 - 29                         29
+3     EmpEducationLevel              int64           1 - 5                          5
+4     EmpEnvironmentSatisfaction     int64           1 - 4                          4
+5     EmpHourlyRate                  int64           30 - 100                       71
+6     EmpJobInvolvement              int64           1 - 4                          4
+7     EmpJobLevel                    int64           1 - 5                          5
+8     EmpJobSatisfaction             int64           1 - 4                          4
+9     NumCompaniesWorked             int64           0 - 9                          10
+10    EmpLastSalaryHikePercent       int64           11 - 25                        15
+11    EmpRelationshipSatisfaction    int64           1 - 4                          4
+12    TotalWorkExperienceInYears     int64           0 - 40                         40
+13    TrainingTimesLastYear          int64           0 - 6                          7
+14    EmpWorkLifeBalance             int64           1 - 4                          4
+15    ExperienceYearsAtThisCompany   int64           0 - 40                         37
+16    ExperienceYearsInCurrentRole   int64           0 - 18                         19
+17    YearsSinceLastPromotion        int64           0 - 15                         16
+18    YearsWithCurrManager           int64           0 - 17                         18
+19    PerformanceRating              int64           2 - 4                          3
+20    Gender                         object          N/A                            2
+21    EducationBackground            object          N/A                            6
+22    MaritalStatus                  object          N/A                            3
+23    EmpDepartment                  object          N/A                            6
+24    EmpJobRole                     object          N/A                            19
+25    BusinessTravelFrequency        object          N/A                            3
+26    OverTime                       object          N/A                            2
+27    Attrition                      object          N/A                            2

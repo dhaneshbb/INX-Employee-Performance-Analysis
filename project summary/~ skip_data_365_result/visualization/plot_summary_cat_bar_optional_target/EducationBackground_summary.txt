@@ -1,0 +1,8 @@
+| EducationBackground   |   Count |   Percentage |
+|:----------------------|--------:|-------------:|
+| Life Sciences         |     492 |        41    |
+| Medical               |     384 |        32    |
+| Marketing             |     137 |        11.42 |
+| Technical Degree      |     100 |         8.33 |
+| Other                 |      66 |         5.5  |
+| Human Resources       |      21 |         1.75 |

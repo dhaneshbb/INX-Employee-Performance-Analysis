@@ -1,0 +1,20 @@
+Analysis for 'YearsSinceLastPromotion' 
+================================================================================
+| Statistic          |    Overall |
+|--------------------|------------|
+| Count              | 1200       |
+| Mean               |    2.19417 |
+| Trimmed Mean (IQR) |    1.48471 |
+| MAD                |    2.34732 |
+| Std                |    3.22156 |
+| Min                |    0       |
+| 25%                |    0       |
+| 50%                |    1       |
+| 75%                |    3       |
+| Max                |   15       |
+| Mode               |    0       |
+| Range              |   15       |
+| IQR                |    3       |
+| Variance           |   10.3784  |
+| Skewness           |    1.97493 |
+| Kurtosis           |    3.53908 |

@@ -1,0 +1,20 @@
+Analysis for 'TotalWorkExperienceInYears' 
+================================================================================
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |   11.33     |
+| Trimmed Mean (IQR) |   10.389    |
+| MAD                |    6.07068  |
+| Std                |    7.79723  |
+| Min                |    0        |
+| 25%                |    6        |
+| 50%                |   10        |
+| 75%                |   15        |
+| Max                |   40        |
+| Mode               |   10        |
+| Range              |   40        |
+| IQR                |    9        |
+| Variance           |   60.7968   |
+| Skewness           |    1.08686  |
+| Kurtosis           |    0.805633 |

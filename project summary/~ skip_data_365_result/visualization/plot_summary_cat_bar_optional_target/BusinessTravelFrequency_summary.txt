@@ -1,0 +1,5 @@
+| BusinessTravelFrequency   |   Count |   Percentage |
+|:--------------------------|--------:|-------------:|
+| Travel_Rarely             |     846 |         70.5 |
+| Travel_Frequently         |     222 |         18.5 |
+| Non-Travel                |     132 |         11   |

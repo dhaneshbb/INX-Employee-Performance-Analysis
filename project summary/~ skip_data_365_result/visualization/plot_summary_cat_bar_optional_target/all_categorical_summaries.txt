@@ -1,0 +1,101 @@
+### Consolidated Categorical Variable Analysis ###
+========================================================================================================================
+
+
+### Gender Summary ###
+
+
+| Gender   |   Count |   Percentage |
+|:---------|--------:|-------------:|
+| Male     |     725 |        60.42 |
+| Female   |     475 |        39.58 |
+
+
+### Educationbackground Summary ###
+
+
+| EducationBackground   |   Count |   Percentage |
+|:----------------------|--------:|-------------:|
+| Life Sciences         |     492 |        41    |
+| Medical               |     384 |        32    |
+| Marketing             |     137 |        11.42 |
+| Technical Degree      |     100 |         8.33 |
+| Other                 |      66 |         5.5  |
+| Human Resources       |      21 |         1.75 |
+
+
+### Maritalstatus Summary ###
+
+
+| MaritalStatus   |   Count |   Percentage |
+|:----------------|--------:|-------------:|
+| Married         |     548 |        45.67 |
+| Single          |     384 |        32    |
+| Divorced        |     268 |        22.33 |
+
+
+### Empdepartment Summary ###
+
+
+| EmpDepartment          |   Count |   Percentage |
+|:-----------------------|--------:|-------------:|
+| Sales                  |     373 |        31.08 |
+| Development            |     361 |        30.08 |
+| Research & Development |     343 |        28.58 |
+| Human Resources        |      54 |         4.5  |
+| Finance                |      49 |         4.08 |
+| Data Science           |      20 |         1.67 |
+
+
+### Empjobrole Summary ###
+
+
+| EmpJobRole                |   Count |   Percentage |
+|:--------------------------|--------:|-------------:|
+| Sales Executive           |     270 |        22.5  |
+| Developer                 |     236 |        19.67 |
+| Manager R&D               |      94 |         7.83 |
+| Research Scientist        |      77 |         6.42 |
+| Sales Representative      |      69 |         5.75 |
+| Laboratory Technician     |      64 |         5.33 |
+| Senior Developer          |      52 |         4.33 |
+| Manager                   |      51 |         4.25 |
+| Finance Manager           |      49 |         4.08 |
+| Human Resources           |      45 |         3.75 |
+| Technical Lead            |      38 |         3.17 |
+| Manufacturing Director    |      33 |         2.75 |
+| Healthcare Representative |      33 |         2.75 |
+| Data Scientist            |      20 |         1.67 |
+| Research Director         |      19 |         1.58 |
+| Business Analyst          |      16 |         1.33 |
+| Senior Manager R&D        |      15 |         1.25 |
+| Delivery Manager          |      12 |         1    |
+| Technical Architect       |       7 |         0.58 |
+
+
+### Businesstravelfrequency Summary ###
+
+
+| BusinessTravelFrequency   |   Count |   Percentage |
+|:--------------------------|--------:|-------------:|
+| Travel_Rarely             |     846 |         70.5 |
+| Travel_Frequently         |     222 |         18.5 |
+| Non-Travel                |     132 |         11   |
+
+
+### Overtime Summary ###
+
+
+| OverTime   |   Count |   Percentage |
+|:-----------|--------:|-------------:|
+| No         |     847 |        70.58 |
+| Yes        |     353 |        29.42 |
+
+
+### Attrition Summary ###
+
+
+| Attrition   |   Count |   Percentage |
+|:------------|--------:|-------------:|
+| No          |    1022 |        85.17 |
+| Yes         |     178 |        14.83 |

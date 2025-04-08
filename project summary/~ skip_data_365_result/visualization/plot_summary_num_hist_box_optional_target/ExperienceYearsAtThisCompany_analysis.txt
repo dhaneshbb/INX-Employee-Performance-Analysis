@@ -1,0 +1,20 @@
+Analysis for 'ExperienceYearsAtThisCompany' 
+================================================================================
+| Statistic          |    Overall |
+|--------------------|------------|
+| Count              | 1200       |
+| Mean               |    7.0775  |
+| Trimmed Mean (IQR) |    6.15385 |
+| MAD                |    4.54715 |
+| Std                |    6.2369  |
+| Min                |    0       |
+| 25%                |    3       |
+| 50%                |    5       |
+| 75%                |   10       |
+| Max                |   40       |
+| Mode               |    5       |
+| Range              |   40       |
+| IQR                |    7       |
+| Variance           |   38.8989  |
+| Skewness           |    1.78905 |
+| Kurtosis           |    4.05796 |

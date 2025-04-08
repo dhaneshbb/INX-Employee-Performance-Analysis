@@ -1,0 +1,138 @@
+### dataset_info
+
+
+=== Dataset Information ===
+
+| Info                      | Details                 |
+|---------------------------|-------------------------|
+| Total Shape               | 1200 rows, 27 columns   |
+| Range Index               | 0 to 1199, 1200 entries |
+| Columns                   | 27 columns              |
+| Memory Usage              | 809980 bytes            |
+| Total Duplicated Rows     | 0 duplicates            |
+| Missing Values Count      | 0 missing values        |
+| Missing Values Percentage | 0.00% missing values    |
+
+Data types with counts of columns:
+
+| Data Type   |   Count of Columns |
+|-------------|--------------------|
+| int64       |                 19 |
+| object      |                  8 |
+
+Numerical and Categorical Variable Counts:
+
+| Variable Type         |   Count |
+|-----------------------|---------|
+| Numerical Variables   |      19 |
+| Categorical Variables |       8 |
+
+No duplicated rows found.
+
+
+### data_overview
+
+
+=== Data Overview Table ===
+
+
+Overview for Data Type: int64
+
+|    | Column Name                  | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|------------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | Age                          | int64       |             43 |               0 |                    0 | No Missing Values        |
+|  1 | DistanceFromHome             | int64       |             29 |               0 |                    0 | No Missing Values        |
+|  2 | EmpEducationLevel            | int64       |              5 |               0 |                    0 | No Missing Values        |
+|  3 | EmpEnvironmentSatisfaction   | int64       |              4 |               0 |                    0 | No Missing Values        |
+|  4 | EmpHourlyRate                | int64       |             71 |               0 |                    0 | No Missing Values        |
+|  5 | EmpJobInvolvement            | int64       |              4 |               0 |                    0 | No Missing Values        |
+|  6 | EmpJobLevel                  | int64       |              5 |               0 |                    0 | No Missing Values        |
+|  7 | EmpJobSatisfaction           | int64       |              4 |               0 |                    0 | No Missing Values        |
+|  8 | NumCompaniesWorked           | int64       |             10 |               0 |                    0 | No Missing Values        |
+|  9 | EmpLastSalaryHikePercent     | int64       |             15 |               0 |                    0 | No Missing Values        |
+| 10 | EmpRelationshipSatisfaction  | int64       |              4 |               0 |                    0 | No Missing Values        |
+| 11 | TotalWorkExperienceInYears   | int64       |             40 |               0 |                    0 | No Missing Values        |
+| 12 | TrainingTimesLastYear        | int64       |              7 |               0 |                    0 | No Missing Values        |
+| 13 | EmpWorkLifeBalance           | int64       |              4 |               0 |                    0 | No Missing Values        |
+| 14 | ExperienceYearsAtThisCompany | int64       |             37 |               0 |                    0 | No Missing Values        |
+| 15 | ExperienceYearsInCurrentRole | int64       |             19 |               0 |                    0 | No Missing Values        |
+| 16 | YearsSinceLastPromotion      | int64       |             16 |               0 |                    0 | No Missing Values        |
+| 17 | YearsWithCurrManager         | int64       |             18 |               0 |                    0 | No Missing Values        |
+| 18 | PerformanceRating            | int64       |              3 |               0 |                    0 | No Missing Values        |
+
+Overview for Data Type: object
+
+|    | Column Name             | Data Type   |   Unique Count |   Missing Count |   Missing Percentage | Missing Value Category   |
+|----|-------------------------|-------------|----------------|-----------------|----------------------|--------------------------|
+|  0 | Gender                  | object      |              2 |               0 |                    0 | No Missing Values        |
+|  1 | EducationBackground     | object      |              6 |               0 |                    0 | No Missing Values        |
+|  2 | MaritalStatus           | object      |              3 |               0 |                    0 | No Missing Values        |
+|  3 | EmpDepartment           | object      |              6 |               0 |                    0 | No Missing Values        |
+|  4 | EmpJobRole              | object      |             19 |               0 |                    0 | No Missing Values        |
+|  5 | BusinessTravelFrequency | object      |              3 |               0 |                    0 | No Missing Values        |
+|  6 | OverTime                | object      |              2 |               0 |                    0 | No Missing Values        |
+|  7 | Attrition               | object      |              2 |               0 |                    0 | No Missing Values        |
+
+### outliers_summary
+
+
+=== Outliers Summary ===
+
+|   Index | Column                       |   Outlier Count | Percentage   |
+|---------|------------------------------|-----------------|--------------|
+|       0 | Age                          |               0 | 0.00%        |
+|       1 | DistanceFromHome             |               0 | 0.00%        |
+|       2 | EmpEducationLevel            |               0 | 0.00%        |
+|       3 | EmpEnvironmentSatisfaction   |               0 | 0.00%        |
+|       4 | EmpHourlyRate                |               0 | 0.00%        |
+|       5 | EmpJobInvolvement            |               0 | 0.00%        |
+|       6 | EmpJobLevel                  |               0 | 0.00%        |
+|       7 | EmpJobSatisfaction           |               0 | 0.00%        |
+|       8 | NumCompaniesWorked           |              39 | 3.25%        |
+|       9 | EmpLastSalaryHikePercent     |               0 | 0.00%        |
+|      10 | EmpRelationshipSatisfaction  |               0 | 0.00%        |
+|      11 | TotalWorkExperienceInYears   |              51 | 4.25%        |
+|      12 | TrainingTimesLastYear        |             188 | 15.67%       |
+|      13 | EmpWorkLifeBalance           |               0 | 0.00%        |
+|      14 | ExperienceYearsAtThisCompany |              56 | 4.67%        |
+|      15 | ExperienceYearsInCurrentRole |              16 | 1.33%        |
+|      16 | YearsSinceLastPromotion      |              88 | 7.33%        |
+|      17 | YearsWithCurrManager         |              11 | 0.92%        |
+|      18 | PerformanceRating            |             326 | 27.17%       |
+
+### summary_statistics_all
+
+Summary Statistics for All Numeric Columns:
+
+| Statistic                   |            Age |   DistanceFromHome |   EmpEducationLevel |   EmpEnvironmentSatisfaction |   EmpHourlyRate |   EmpJobInvolvement |    EmpJobLevel |   EmpJobSatisfaction |   NumCompaniesWorked |   EmpLastSalaryHikePercent |   EmpRelationshipSatisfaction |   TotalWorkExperienceInYears |   TrainingTimesLastYear |   EmpWorkLifeBalance |   ExperienceYearsAtThisCompany |   ExperienceYearsInCurrentRole |   YearsSinceLastPromotion |   YearsWithCurrManager |   PerformanceRating |
+|-----------------------------|----------------|--------------------|---------------------|------------------------------|-----------------|---------------------|----------------|----------------------|----------------------|----------------------------|-------------------------------|------------------------------|-------------------------|----------------------|--------------------------------|--------------------------------|---------------------------|------------------------|---------------------|
+| Count                       | 1200           |     1200           |      1200           |               1200           |  1200           |      1200           | 1200           |       1200           |       1200           |             1200           |                1200           |               1200           |          1200           |       1200           |                 1200           |                 1200           |            1200           |         1200           |      1200           |
+| Unique                      |   43           |       29           |         5           |                  4           |    71           |         4           |    5           |          4           |         10           |               15           |                   4           |                 40           |             7           |          4           |                   37           |                   19           |              16           |           18           |         3           |
+| Mean                        |   36.9183      |        9.16583     |         2.8925      |                  2.71583     |    65.9817      |         2.73167     |    2.0675      |          2.7325      |          2.665       |               15.2225      |                   2.725       |                 11.33        |             2.78583     |          2.74417     |                    7.0775      |                    4.29167     |               2.19417     |            4.105       |         2.94833     |
+| Std                         |    9.08729     |        8.17664     |         1.04412     |                  1.0906      |    20.2113      |         0.707164    |    1.10784     |          1.10089     |          2.46938     |                3.62592     |                   1.07564     |                  7.79723     |             1.26345     |          0.699374    |                    6.2369      |                    3.61374     |               3.22156     |            3.54158     |         0.518866    |
+| Min                         |   18           |        1           |         1           |                  1           |    30           |         1           |    1           |          1           |          0           |               11           |                   1           |                  0           |             0           |          1           |                    0           |                    0           |               0           |            0           |         2           |
+| 25%                         |   30           |        2           |         2           |                  2           |    48           |         2           |    1           |          2           |          1           |               12           |                   2           |                  6           |             2           |          2           |                    3           |                    2           |               0           |            2           |         3           |
+| 50%                         |   36           |        7           |         3           |                  3           |    66           |         3           |    2           |          3           |          2           |               14           |                   3           |                 10           |             3           |          3           |                    5           |                    3           |               1           |            3           |         3           |
+| 75%                         |   43           |       14           |         4           |                  4           |    83           |         3           |    3           |          4           |          4           |               18           |                   4           |                 15           |             3           |          3           |                   10           |                    7           |               3           |            7           |         3           |
+| Max                         |   60           |       29           |         5           |                  4           |   100           |         4           |    5           |          4           |          9           |               25           |                   4           |                 40           |             6           |          4           |                   40           |                   18           |              15           |           17           |         4           |
+| Mode                        |   34           |        2           |         3           |                  3           |    66           |         3           |    2           |          4           |          1           |               14           |                   3           |                 10           |             2           |          3           |                    5           |                    2           |               0           |            2           |         3           |
+| Range                       |   42           |       28           |         4           |                  3           |    70           |         3           |    4           |          3           |          9           |               14           |                   3           |                 40           |             6           |          3           |                   40           |                   18           |              15           |           17           |         2           |
+| IQR                         |   13           |       12           |         2           |                  2           |    35           |         1           |    2           |          2           |          3           |                6           |                   2           |                  9           |             1           |          1           |                    7           |                    5           |               3           |            5           |         0           |
+| Variance                    |   82.5788      |       66.8574      |         1.09019     |                  1.18941     |   408.497       |         0.500081    |    1.2273      |          1.21195     |          6.09786     |               13.1473      |                   1.15701     |                 60.7968      |             1.5963      |          0.489124    |                   38.8989      |                   13.0591      |              10.3784      |           12.5428      |         0.269222    |
+| Skewness                    |    0.384145    |        0.962956    |        -0.250974    |                 -0.307665    |    -0.0351649   |        -0.557846    |    1.02405     |         -0.324276    |          1.04863     |                0.808654    |                  -0.318563    |                  1.08686     |             0.532073    |         -0.539231    |                    1.78905     |                    0.888159    |               1.97493     |            0.813158    |        -0.0705764   |
+| Kurtosis                    |   -0.431       |       -0.242017    |        -0.635594    |                 -1.20558     |    -1.18689     |         0.36867     |    0.386338    |         -1.22315     |          0.068863    |               -0.299741    |                  -1.16183     |                  0.805633    |             0.567531    |          0.396607    |                    4.05796     |                    0.438029    |               3.53908     |            0.148202    |         0.674477    |
+| Shapiro-Wilk Test Statistic |    0.979036    |        0.857049    |         0.898553    |                  0.850738    |     0.955943    |         0.801174    |    0.822062    |          0.846443    |          0.846337    |                0.904184    |                   0.853518    |                  0.910346    |             0.894452    |          0.80039     |                    0.836011    |                    0.899941    |               0.70459     |            0.898841    |         0.696819    |
+| Shapiro-Wilk Test p-value   |    3.55768e-12 |        1.22599e-31 |         1.94515e-27 |                  3.44376e-32 |     1.54504e-18 |         5.62211e-36 |    1.74619e-34 |          1.48661e-32 |          1.45646e-32 |                9.07231e-27 |                   5.99333e-32 |                  5.31064e-26 |             6.60285e-28 |          4.97034e-36 |                    2.08219e-33 |                    2.82575e-27 |               1.43633e-41 |            2.10097e-27 |         5.96673e-42 |
+
+### categorical_summary
+
+Categorical Summary:
+
+| Statistic      | Gender   | EducationBackground   | MaritalStatus   | EmpDepartment   | EmpJobRole      | BusinessTravelFrequency   | OverTime   | Attrition   |
+|----------------|----------|-----------------------|-----------------|-----------------|-----------------|---------------------------|------------|-------------|
+| Count          | 1200     | 1200                  | 1200            | 1200            | 1200            | 1200                      | 1200       | 1200        |
+| Unique         | 2        | 6                     | 3               | 6               | 19              | 3                         | 2          | 2           |
+| Top            | Male     | Life Sciences         | Married         | Sales           | Sales Executive | Travel_Rarely             | No         | No          |
+| Frequency      | 725      | 492                   | 548             | 373             | 270             | 846                       | 847        | 1022        |
+| Top Percentage | 60.42%   | 41.00%                | 45.67%          | 31.08%          | 22.50%          | 70.50%                    | 70.58%     | 85.17%      |
+

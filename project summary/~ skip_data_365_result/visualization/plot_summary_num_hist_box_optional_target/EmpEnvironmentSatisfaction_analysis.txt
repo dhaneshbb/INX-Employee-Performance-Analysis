@@ -1,0 +1,20 @@
+Analysis for 'EmpEnvironmentSatisfaction' 
+================================================================================
+| Statistic          |     Overall |
+|--------------------|-------------|
+| Count              | 1200        |
+| Mean               |    2.71583  |
+| Trimmed Mean (IQR) |    2.71583  |
+| MAD                |    0.946456 |
+| Std                |    1.0906   |
+| Min                |    1        |
+| 25%                |    2        |
+| 50%                |    3        |
+| 75%                |    4        |
+| Max                |    4        |
+| Mode               |    3        |
+| Range              |    3        |
+| IQR                |    2        |
+| Variance           |    1.18941  |
+| Skewness           |   -0.307665 |
+| Kurtosis           |   -1.20558  |

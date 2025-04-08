@@ -1,0 +1,5 @@
+| MaritalStatus   |   Count |   Percentage |
+|:----------------|--------:|-------------:|
+| Married         |     548 |        45.67 |
+| Single          |     384 |        32    |
+| Divorced        |     268 |        22.33 |
