@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Data & Results (generated outputs - keep models)
+!results/figures/GALLERY.md
+results/**/visualization/
+results/**/*.html
+results/**/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Project specific - generated analysis files
+results/365csv*
+
+# Backup folder
+.backup/
+
+data/
+docs/

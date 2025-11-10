@@ -1,4 +1,4 @@
-insightfulpy
+insightfulpy==0.1.7
 numpy
 pandas
 matplotlib
@@ -13,3 +13,7 @@ lightgbm
 catboost
 shap
 tabulate
+psutil
+ipython
+jupyter
+joblib

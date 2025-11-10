@@ -1,0 +1,24 @@
+[flake8]
+max-line-length = 88
+extend-ignore = E203, W503, E501
+exclude =
+    .git,
+    __pycache__,
+    .venv,
+    venv,
+    .eggs,
+    *.egg,
+    build,
+    dist,
+    .tox,
+    .mypy_cache,
+    .pytest_cache,
+    notebooks/.ipynb_checkpoints
+
+per-file-ignores =
+    __init__.py:F401
+    notebooks/*.ipynb:E402,E501,F405,F401,F811
+    src/*.py:D200
+
+max-complexity = 10
+docstring-convention = numpy
