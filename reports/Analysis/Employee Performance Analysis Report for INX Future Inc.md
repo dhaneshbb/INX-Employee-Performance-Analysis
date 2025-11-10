@@ -1,4 +1,4 @@
-# INX Future Inc. Employee Performance Analysis: 
+# INX Future Inc. Employee Performance Analysis:
 
 **Report Date:** April 8, 2025
 **Last Revised:** November 10, 2025
@@ -1469,7 +1469,7 @@ if __name__ == '__main__':
 
 This analysis was conducted using a combination of open-source libraries and custom functions. Special thanks to:
 
-**Report Prepared By:** Dhanesh B. B. 
+**Report Prepared By:** Dhanesh B. B.
 **Contact:**
 - GitHub: https://github.com/dhaneshbb
 
