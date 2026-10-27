@@ -30,6 +30,26 @@ See [reports/Analysis/](reports/Analysis/) for detailed business insights and re
 
 ## Quick Start
 
+<p align="center">
+  <img src="results/figures/thumbnails/1.png" alt="INX Employee Performance Analysis preview 1">
+</p>
+
+<p align="center">
+  <img src="results/figures/thumbnails/2.png" alt="INX Employee Performance Analysis preview 2">
+</p>
+
+<p align="center">
+  <img src="results/figures/thumbnails/3.png" alt="INX Employee Performance Analysis preview 3">
+</p>
+
+<p align="center">
+  <img src="results/figures/thumbnails/4.png" alt="INX Employee Performance Analysis preview 4">
+</p>
+
+<p align="center">
+  <img src="results/figures/thumbnails/5.png" alt="INX Employee Performance Analysis preview 5">
+</p>
+
 ### Installation
 
 ```bash
